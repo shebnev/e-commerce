@@ -1,0 +1,6 @@
+Country,order_count,total_orders_sum,total_return_sum,proceeds,percentage_returns
+Belgium,99,41196,285,40911,0.7
+Germany,458,228867,7169,221698,3.1
+France,393,209715,12311,197404,5.9
+EIRE,289,283454,20177,263277,7.1
+"United Kingdom",20120,9003098,815292,8187806,9.1
